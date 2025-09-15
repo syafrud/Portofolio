@@ -6,9 +6,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  // basePath: "/Portofolio",
-  // assetPrefix: "/Portofolio/",
-  // trailingSlash: true,
 };
 
 export default nextConfig;
